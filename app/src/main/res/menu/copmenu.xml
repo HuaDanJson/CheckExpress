@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sf"
+        android:title="顺丰"/>
+    <item
+        android:id="@+id/zt"
+        android:title="中通"/>
+    <item
+        android:id="@+id/st"
+        android:title="申通"/>
+    <item
+        android:id="@+id/yt"
+        android:title="圆通"/>
+    <item
+        android:id="@+id/yd"
+        android:title="韵达"/>
+    <item
+        android:id="@+id/bs"
+        android:title="百世"/>
+    <item
+        android:id="@+id/tt"
+        android:title="天天"/>
+    <item
+        android:id="@+id/ems"
+        android:title="EMS"/>
+
+</menu>
